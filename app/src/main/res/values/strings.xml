@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mjm077</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_simple_list">SimpleList</string>
+    <string name="title_activity_calc_intent">CalcIntent</string>
+    <string name="title_activity_calc">CalcActivity</string>
+    <string name="title_activity_custom">CustomActivity</string>
+</resources>
